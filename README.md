@@ -1,4 +1,4 @@
-👋 Hi, I'm Ashima!
+<h1>👋 Hi, I'm Ashima! </h1>
 
 I'm a passionate Full Stack Developer with experience in building dynamic and responsive web applications using the MERN stack (MongoDB, Express, React, and Node.js). I enjoy tackling complex challenges and creating intuitive, user-friendly interfaces while ensuring efficient and scalable back-end solutions.
 
