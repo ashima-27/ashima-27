@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer with experience in building dynamic and re
 
 Frontend:
 
-🌐 React: Dynamic interfaces using components.
+🌐 React : Dynamic interfaces using components.
 
 🎨 HTML5: Semantic and structured web pages.
 
