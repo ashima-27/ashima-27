@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**ashima-27/ashima-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi, I'm Ashima! I'm a passionate Full Stack Developer with experience in building dynamic and responsive web applications using the MERN stack (MongoDB, Express, React, and Node.js). I enjoy tackling complex challenges and creating intuitive, user-friendly interfaces while ensuring efficient and scalable back-end solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech Stack:
+
+Frontend: React, HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap 
+Backend: Node.js, Express.js, MySQL, MongoDB, REST APIs
+Tools & Platforms: Git, Netlify ,Render, Heroku, Postman
+Version Control: Git, GitHub, GitLab
+Other: Redux, Styled-components, WebSockets
+💡 I’m always eager to learn new technologies and improve my skills. I’m passionate about clean, maintainable code and have a strong eye for detail when it comes to UI/UX design.
+
+📈 I love collaborating on open-source projects, contributing to teams, and building exciting solutions that make an impact. Feel free to explore my repositories and reach out for any collaboration opportunities!
