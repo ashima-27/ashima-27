@@ -1,64 +1,61 @@
 <h1 style="background-color: #ffeb3b; padding: 10px; border-radius: 5px;">👋 Hi, I'm Ashima!</h1>
 
+<p>
+    I'm a passionate Full Stack Developer with experience in building dynamic and responsive web applications using 
+    the MERN stack (MongoDB, Express, React, and Node.js). I enjoy tackling complex challenges and creating intuitive, 
+    user-friendly interfaces while ensuring efficient and scalable back-end solutions.
+</p>
 
-I'm a passionate Full Stack Developer with experience in building dynamic and responsive web applications using the MERN stack (MongoDB, Express, React, and Node.js). I enjoy tackling complex challenges and creating intuitive, user-friendly interfaces while ensuring efficient and scalable back-end solutions.
+<h2>🔧 Tech Stack:</h2>
 
-🔧 Tech Stack:
+<h3>Frontend:</h3>
+<ul>
+    <li>🌐 <span style="background-color: lightblue;">React</span>: Dynamic interfaces using components.</li>
+    <li>🎨 <span style="background-color: lightcoral;">HTML5</span>: Semantic and structured web pages.</li>
+    <li>💅 <span style="background-color: lightgreen;">CSS3</span>: Styling and responsive design.</li>
+    <li>💻 <span style="background-color: lightyellow;">JavaScript</span>: Interactive and functional websites.</li>
+    <li>🌀 <span style="background-color: lightgray;">Tailwind CSS</span>: Utility-first styling framework.</li>
+    <li>🖼️ <span style="background-color: lightpink;">Bootstrap</span>: Predefined UI components.</li>
+</ul>
 
-Frontend:
+<h3>Backend:</h3>
+<ul>
+    <li>🚀 <span style="background-color: lightsalmon;">Node.js</span>: Scalable server-side applications.</li>
+    <li>🛠️ <span style="background-color: lightgoldenrodyellow;">Express.js</span>: Web frameworks for handling APIs.</li>
+    <li>🗃️ <span style="background-color: lightseagreen;">MySQL</span>: Relational database management.</li>
+    <li>🛢️ <span style="background-color: lightsteelblue;">MongoDB</span>: NoSQL database for handling large datasets.</li>
+    <li>📡 <span style="background-color: lightcyan;">REST APIs</span>: API endpoints for web services.</li>
+</ul>
 
-🌐 React : Dynamic interfaces using components.
+<h3>Tools & Platforms:</h3>
+<ul>
+    <li>🔧 <span style="background-color: lightblue;">Git</span>: Version control.</li>
+    <li>🚀 <span style="background-color: lightcoral;">Netlify</span>: Deployment for static websites.</li>
+    <li>🌐 <span style="background-color: lightgreen;">Render</span>: Cloud platform for full-stack applications.</li>
+    <li>📦 <span style="background-color: lightyellow;">Heroku</span>: Cloud platform for apps.</li>
+    <li>📮 <span style="background-color: lightgray;">Postman</span>: API testing tool.</li>
+</ul>
 
-🎨 HTML5: Semantic and structured web pages.
+<h3>Version Control:</h3>
+<ul>
+    <li>🧑‍💻 <span style="background-color: lightpink;">Git</span>: Track code changes.</li>
+    <li>📂 <span style="background-color: lightsalmon;">GitHub</span>: Host repositories.</li>
+    <li>🗂️ <span style="background-color: lightgoldenrodyellow;">GitLab</span>: Version control platform.</li>
+</ul>
 
-💅 CSS3: Styling and responsive design.
+<h3>Other:</h3>
+<ul>
+    <li>⚛️ <span style="background-color: lightseagreen;">Redux</span>: State management for React apps.</li>
+    <li>💅 <span style="background-color: lightsteelblue;">Styled-components</span>: CSS in JS for styling.</li>
+    <li>🔗 <span style="background-color: lightcyan;">WebSockets</span>: Real-time communication.</li>
+</ul>
 
-💻 JavaScript: Interactive and functional websites.
+<p>
+    💡 I’m always eager to learn new technologies and improve my skills. I’m passionate about clean, maintainable code 
+    and have a strong eye for detail when it comes to UI/UX design.
+</p>
 
-🌀 Tailwind CSS: Utility-first styling framework.
-
-🖼️ Bootstrap: Predefined UI components.
-
-Backend:
-
-🚀 Node.js: Scalable server-side applications.
-
-🛠️ Express.js: Web frameworks for handling APIs.
-
-🗃️ MySQL: Relational database management.
-
-🛢️ MongoDB: NoSQL database for handling large datasets.
-
-📡 REST APIs: API endpoints for web services.
-
-Tools & Platforms:
-
-🔧 Git: Version control.
-
-🚀 Netlify: Deployment for static websites.
-
-🌐 Render: Cloud platform for full-stack applications.
-
-📦 Heroku: Cloud platform for apps.
-
-📮 Postman: API testing tool.
-
-Version Control:
-
-🧑‍💻 Git: Track code changes.
-
-📂 GitHub: Host repositories.
-
-🗂️ GitLab: Version control platform.
-
-Other:
-
-⚛️ Redux: State management for React apps.
-
-💅 Styled-components: CSS in JS for styling.
-
-🔗 WebSockets: Real-time communication.
-
-💡 I’m always eager to learn new technologies and improve my skills. I’m passionate about clean, maintainable code and have a strong eye for detail when it comes to UI/UX design.
-
-📈 I love collaborating on open-source projects, contributing to teams, and building exciting solutions that make an impact. Feel free to explore my repositories and reach out for any collaboration opportunities!
+<p>
+    📈 I love collaborating on open-source projects, contributing to teams, and building exciting solutions that make 
+    an impact. Feel free to explore my repositories and reach out for any collaboration opportunities!
+</p>
