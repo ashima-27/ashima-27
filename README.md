@@ -1,3 +1,5 @@
+<img src='https://github.com/user-attachments/assets/300d324c-cc4e-4dc8-af7b-470a8e5432da' alt='mybanner' style="width=100%"/>
+
 <h1 style="background-color: #ffeb3b; padding: 10px; border-radius: 5px;">👋 Hi, I'm Ashima!</h1>
 
 <p>
